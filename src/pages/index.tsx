@@ -190,8 +190,6 @@ export default function Home() {
               <span className={styles.pill}>python</span>
               <span className={styles.pill}>SQL</span>
               <span className={styles.pill}>JavaScript</span>
-              <span className={styles.pill}>React</span>
-              <span className={styles.pill}>AWS</span>
 
             </div>
             <div>
